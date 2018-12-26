@@ -1,2 +1,0 @@
-# FirstReactProject
-Created with CodeSandbox
